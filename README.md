@@ -10,7 +10,7 @@ Um agente que ajuda a organizar tarefas diárias, fornece lembretes e oferece su
 - **Pastas:** Organização das pastas do projeto.
 
 ## Funcionalidades
--Copilot Microsoft Assitente Para ABertura De Chamados.
+-Copilot Microsoft Assitente Para Abertura De Chamados.
 
 ## Tecnologias Utilizadas
 - Linguagens de Programação: 
@@ -51,4 +51,4 @@ Um agente que ajuda a organizar tarefas diárias, fornece lembretes e oferece su
 - [Como Contribuir](#como-contribuir)
 - [Como Executar o Projeto](#como-executar-o-projeto)
 - [Contato](#contato)
-- [Agradecimentos](#agradecimentos)
+
